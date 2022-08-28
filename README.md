@@ -5,6 +5,8 @@
 👀 I want to learn CUDA, TensorFlow, UnrealEngine and how to exit vim<br>
 💻 I love building and tuning pc's
 
+<a href="https://propaganda-studios.itch.io" style="text-decoration:none; color: red"><img src="prop_logo.png"  width="50" alt="My itch.io"><b>Check out my itch.io games!<b></a>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/DAX.PL#5646) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miloszklim/) 
 
