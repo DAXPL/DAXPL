@@ -1,5 +1,5 @@
 
-<h1><img src="wave.gif" alt="drawing" width="25"/>Serwusr</h1>
+<h1><img src="wave.gif" alt="drawing" width="25"/>Serwus</h1>
 
 🛠 At the moment working with Unity 3D, Open CV, and a little bit Godot<br>
 👀 I want to learn CUDA, TensorFlow, UnrealEngine and how to exit vim<br>
