@@ -24,6 +24,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 <img src="unity.webp"  width="25" alt="Unity3D">
+Podstawy CoDeSys i LabVIEW
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DAXPL&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DAXPL&theme=react&hide_border=false)<br/>
