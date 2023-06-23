@@ -1,8 +1,8 @@
 
 <h1><img src="wave.gif" alt="drawing" width="25"/>Serwus</h1>
 
-🛠 At the moment working with Unity 3D, Open CV, and a little bit Godot<br>
-👀 I want to learn CUDA, TensorFlow, UnrealEngine and how to exit vim<br>
+🛠 At the moment working with Unity 3D, OpenGL, and a little bit Godot<br>
+👀 I want to learn UnrealEngine and how to exit vim<br>
 💻 I love building and tuning pc's
 
 <a href="https://propaganda-studios.itch.io" style="text-decoration:none; color: red"><img src="prop_logo.png"  width="50" alt="My itch.io"><b>Check out my itch.io games!<b></a>
